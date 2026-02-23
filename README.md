@@ -19,7 +19,7 @@ Frontend: React + Vite + TypeScript + TailwindCSS v4
 Backend: Node.js + Express
 
 AI: Mocked locally (can be switched to OpenAI, Gemini, Claude, etc.)
-
+```
 jobalchemy-career-explorer-prototype/
 ├── backend/
 │   ├── server.js
@@ -41,3 +41,4 @@ jobalchemy-career-explorer-prototype/
 │   ├── postcss.config.js
 │   └── package.json
 └── README.md
+```
